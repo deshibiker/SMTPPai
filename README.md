@@ -20,3 +20,5 @@ If the primary connection fails, SMTPPai retries through a backup provider autom
 
 Gmail & Microsoft 365 OAuth for Local, Staging & Live WordPress
 Connect Gmail or Microsoft 365 with your own Google Cloud or Entra app. SMTPPai’s fixed HTTPS OAuth relay helps local and staging sites complete sign-in without a public production redirect URL in the provider console. Tokens stay on your WordPress server; API keys can stay encrypted in the database or in wp-config.php. No usage telemetry and no MailPai account required for core SMTP delivery.
+
+Visit Plugin Site: https://mailpai.com/smtp-pai/
